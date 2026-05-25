@@ -14,6 +14,3 @@ Full Stack Developer with a strong interest in creating innovative web and AI-ba
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tanishqpandey14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=tanishqpandey14&icon=0&color=0)](https://visitcount.itsvg.in)
