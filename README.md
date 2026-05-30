@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full Stack Developer with a strong interest in creating innovative web and AI-based applications.
 
 
