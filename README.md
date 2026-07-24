@@ -88,7 +88,7 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://github-profile-trophy.vercel.app/?username=tanishqpandey14&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Tanishq's GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=tanishqpandey14&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tanishq Pandey's GitHub Trophies" />
   </a>
 </p>
 
