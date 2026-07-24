@@ -1,4 +1,3 @@
-```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Tanishq%20Pandey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=18&descAlignY=55"/>
 
 <p align="center">
@@ -7,10 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://img.shields.io/github/followers/tanishqpandey14?style=for-the-badge&logo=github&color=181717"/>
-  </a>
-  <a href="https://github.com/tanishqpandey14">
-    <img src="https://img.shields.io/github/stars/tanishqpandey14?style=for-the-badge&logo=github&color=yellow"/>
+    <img src="https://img.shields.io/github/followers/tanishqpandey14?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -18,27 +14,28 @@
 
 # 👋 About Me
 
-I'm a passionate **Full Stack Developer** from India who enjoys building scalable web applications and exploring AI-powered solutions.
+I'm a passionate **Full Stack Developer** from **India** who enjoys building modern web applications and exploring AI-powered solutions.
 
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning **MERN, Django, Docker & Kubernetes**
+- 💻 Full Stack Developer
+- 🌱 Currently learning **MERN Stack, Django, Docker & Kubernetes**
 - 🤖 Interested in AI, Cloud Computing & Backend Development
-- 🚀 Love building projects that solve real-world problems
-- 📫 Reach me at **work.tanishqpandey@gmail.com**
+- 🚀 Love building real-world projects
+- 📫 **Email:** work.tanishqpandey@gmail.com
 
 ---
 
 # 🛠 Languages & Tools
 
 <table align="center">
-
 <tr>
 
 <td align="center" width="50%">
 
 ### 💻 Languages
 
+<p>
 <img src="https://skillicons.dev/icons?i=js,python,java"/>
+</p>
 
 </td>
 
@@ -46,7 +43,9 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 
 ### 🎨 Frontend
 
+<p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+</p>
 
 </td>
 
@@ -58,7 +57,9 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 
 ### ⚙️ Backend
 
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+</p>
 
 </td>
 
@@ -66,12 +67,13 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 
 ### 🗄 Database & Tools
 
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,docker"/>
+</p>
 
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -82,7 +84,7 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqpandey14&theme=radical&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=tanishqpandey14&theme=radical&hide_border=true"/>
 
 </p>
 
@@ -103,20 +105,8 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqpandey14&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqpandey14&theme=react-dark&hide_border=true"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-> ⭐ Pin your best repositories on your GitHub profile and update the links below.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Project 1** | Full Stack Web Application | React • Node.js • MongoDB |
-| **Project 2** | AI-based Application | Python • Flask |
-| **Project 3** | Portfolio Website | React • Tailwind CSS |
 
 ---
 
@@ -124,13 +114,13 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 
 <p align="center">
 
-<a href="https://github.com/tanishqpandey14">
+<a href="https://github.com/tanishqpandey14" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/tanishq-pandey09/">
+<a href="https://www.linkedin.com/in/tanishq-pandey09/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -155,6 +145,5 @@ I'm a passionate **Full Stack Developer** from India who enjoys building scalabl
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,29"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,29"/>
 </p>
-```
