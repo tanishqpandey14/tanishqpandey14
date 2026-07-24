@@ -73,7 +73,7 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Tanishq's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true" alt="Tanishq's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/tanishqpandey14">
     <img src="https://streak-stats.demolab.com?user=tanishqpandey14&theme=radical&hide_border=true" alt="Tanishq's GitHub Streak" width="48%" />
@@ -82,7 +82,7 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqpandey14&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanishqpandey14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
 </p>
 
@@ -98,11 +98,6 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 ---
 
-<!-- 
-  Snake Animation Workflow Note:
-  Ensure you have configured a GitHub Action (using Platane/snk@v3) in `.github/workflows/snake.yml` 
-  that generates and pushes the snake animation SVG files to the `output` branch.
--->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanishqpandey14/tanishqpandey14/output/github-contribution-grid-snake-dark.svg" />
