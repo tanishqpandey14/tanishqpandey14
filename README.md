@@ -15,7 +15,6 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 • 💻 Full Stack Developer  
 • 🌱 Currently learning MERN Stack  
 • 🚀 Passionate about building scalable web applications  
-• 🤖 Interested in AI & Cloud Computing  
 • 📫 Reach me at: work.tanishqpandey@gmail.com  
 
 ---
@@ -46,7 +45,7 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
     </tr>
     <tr>
       <td width="50%" height="160px" align="left" valign="top" style="padding: 12px;">
-        <h3 align="center">⚙️ Backend & Database</h3>
+        <h3 align="center">⚙️ Backend &  Database</h3>
         <ul>
           <li>Node.js</li>
           <li>Express.js</li>
