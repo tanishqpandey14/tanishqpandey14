@@ -45,7 +45,7 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
     </tr>
     <tr>
       <td width="50%" height="160px" align="left" valign="top" style="padding: 12px;">
-        <h3 align="center">⚙️ Backend &    Database</h3>
+        <h3 align="center">⚙️ Backend & Database</h3>
         <ul>
           <li>Node.js</li>
           <li>Express.js</li>
@@ -72,16 +72,19 @@ I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true" alt="Tanishq's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/tanishqpandey14">
-    <img src="https://streak-stats.demolab.com?user=tanishqpandey14&theme=radical&hide_border=true" alt="Tanishq's GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true" alt="Tanishq's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tanishqpandey14">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanishqpandey14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=tanishqpandey14&theme=radical&hide_border=true" alt="Tanishq's GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tanishqpandey14">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tanishqpandey14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </p>
 
