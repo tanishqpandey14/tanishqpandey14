@@ -1,84 +1,160 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Tanishq%20Pandey&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+```markdown
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20,29&text=Tanishq%20Pandey&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descSize=18&descAlignY=55"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
-
-## 📌 About Me
-- Full Stack Developer with a strong interest in creating innovative web and AI-based applications.
-
-
-## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanishqpandey14&theme=radical&hide_border=true&cache_seconds=86400" alt="tanishqpandey14's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=tanishqpandey14&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tanishq Pandey's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqpandey14&theme=radical&radius=10" alt="tanishqpandey14's Activity Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;Learning+AI+%26+Cloud;Always+Learning+New+Technologies"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tanishqpandey14">
+    <img src="https://img.shields.io/github/followers/tanishqpandey14?style=for-the-badge&logo=github&color=181717"/>
+  </a>
+  <a href="https://github.com/tanishqpandey14">
+    <img src="https://img.shields.io/github/stars/tanishqpandey14?style=for-the-badge&logo=github&color=yellow"/>
+  </a>
+</p>
 
-## 🛠️ Languages & Tools
+---
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" width="50%" style="padding: 15px;">
-      <h3>Programming Languages</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-    </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <h3>Frontend</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" style="padding: 15px;">
-      <h3>Backend & Databases</h3>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-    </td>
-    <td align="center" width="50%" style="padding: 15px;">
-      <h3>Tools</h3>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;
-      <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-    </td>
-  </tr>
+# 👋 About Me
+
+I'm a passionate **Full Stack Developer** from India who enjoys building scalable web applications and exploring AI-powered solutions.
+
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning **MERN, Django, Docker & Kubernetes**
+- 🤖 Interested in AI, Cloud Computing & Backend Development
+- 🚀 Love building projects that solve real-world problems
+- 📫 Reach me at **work.tanishqpandey@gmail.com**
+
+---
+
+# 🛠 Languages & Tools
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,python,java"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
+
+</td>
+
+<td align="center">
+
+### 🗄 Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman,docker"/>
+
+</td>
+
+</tr>
+
 </table>
 
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/tanishqpandey14">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanishqpandey14&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishqpandey14&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqpandey14&theme=radical&hide_border=true"/>
+
 </p>
 
-## 🔗 Connect with Me
 <p align="center">
-  <a href="https://github.com/tanishqpandey14">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" alt="GitHub" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanishq-pandey09">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:work.tanishqpandey@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqpandey14&layout=compact&theme=radical&hide_border=true"/>
 </p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tanishqpandey14&theme=radical&no-frame=true&no-bg=true&column=4"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqpandey14&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+> ⭐ Pin your best repositories on your GitHub profile and update the links below.
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Project 1** | Full Stack Web Application | React • Node.js • MongoDB |
+| **Project 2** | AI-based Application | Python • Flask |
+| **Project 3** | Portfolio Website | React • Tailwind CSS |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/tanishqpandey14">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/tanishq-pandey09/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:work.tanishqpandey@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg">
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,29"/>
+</p>
+```
