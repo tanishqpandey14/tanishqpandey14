@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm Tanishq Pandey, a passionate Full Stack Developer.
+I'm Tanishq Pandey, a passionate Full Stack Developer from India.
 
 • 💻 Full Stack Developer  
 • 🌱 Currently learning MERN Stack  
